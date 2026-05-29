@@ -1,0 +1,5 @@
+코드설명.md
+__pycache__/
+*.pyc
+*.db
+.env
